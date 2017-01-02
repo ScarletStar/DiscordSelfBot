@@ -1,0 +1,7 @@
+/.gradle/
+/BotConfig.json
+/build/
+/bin/
+/.settings/
+.classpath
+tokens.json
